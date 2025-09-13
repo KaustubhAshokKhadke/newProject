@@ -1,0 +1,5 @@
+.env
+assets/videos/
+vendor/
+.DS_Store
+
