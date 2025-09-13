@@ -1,0 +1,18 @@
+.kiosk-btns .btn {
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+
+.chatbot-fab {
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	z-index: 1030;
+	border-radius: 999px;
+	box-shadow: 0 6px 16px rgba(0,0,0,0.2);
+}
+
+video {
+	background: #000;
+}
+
